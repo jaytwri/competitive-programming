@@ -1,2 +1,2 @@
 # competitive-programming
-A solution to some of my favorite CP questions 
+Solutions to some of my favorite CP questions.
